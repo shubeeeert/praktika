@@ -1,0 +1,22 @@
+{
+  "users.csv": {
+    "data_first": "27;;***@synaptik.ru;$2a$10$anE7gERTGlYY/DTMdNlwU.FVYY2X3f99fw1AKFj0w/..yKr5DgiHm;t;2024-11-25 10:06:42.459059;2024-11-25 10:06:42.459059;;1970-01-01 00:00:00;;;;;0;client;1;;;;f;f;;",
+    "schema_first": "id;name;email;password;is_verified;created_at;updated_at;deleted_at;logout_at;trial_used_at;remna_id;remna_short_id;referrer_user_id;referal_balance;role;referral_config_id;dashamail_id;segment_id;ga4_client_id;is_was_guest;beta_tester;appmetrica_device_id;appmetrica_profile_id"
+  },
+  "subscribe.csv": {
+    "data_first": "62958;1645635;5;2026-10-13 17:19:29.39354+03;2026-09-13 14:19:29.39354;fe5846c4-3751-4b8a-a6f5-5ea7c3971190;;;f;f;",
+    "schema_first": "id;user_id;product_id;expired_time;created_at;order_id;disabled_at;next_product_id;pre_payment;pre_payment_notification;next_period_id"
+  },
+  "orders.csv": {
+    "data_first": "a9de43db-100b-41c5-85ed-bb28f5382cfb;130729;5;\"249.00\";paid;2026-03-19 13:46:00.100123;2026-03-19 13:46:02.543847;t;f;1;2",
+    "schema_first": "id;user_id;product_id;amount;status;created_at;updated_at;pre_payment;trial;period_id;provider_id"
+  },
+  "transactions.csv": {
+    "data_first": "2f93068b-000f-5000-8000-152c8cfa3ff9;78a2094c-74c9-4da9-ab9c-3f0fb2074068;\"349.00\";https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f93068b-000f-5000-8000-152c8cfa3ff9;failed;\"{\"\"id\"\": \"\"2f93068b-000f-5000-8000-152c8cfa3ff9\"\", \"\"amount\"\": {\"\"value\"\": \"\"349.00\"\", \"\"currency\"\": \"\"RUB\"\"}, \"\"s",
+    "schema_first": "id;order_id;amount;payment_link;status;raw_response_payment;created_at;updated_at"
+  },
+  "proxy_user_connection_logs.csv": {
+    "data_first": "a8d0b88e-27eb-4811-a5e9-4c767ea0980a;240322;38;;2026-03-02 14:40:57.626384",
+    "schema_first": "id;user_id;node_id;subscribe_id;created_at"
+  }
+}

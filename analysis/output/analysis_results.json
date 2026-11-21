@@ -1,0 +1,400 @@
+{
+  "overview": {
+    "users_total": 1844880,
+    "users_by_role": {
+      "guest": 1176913,
+      "client": 667962,
+      "admin": 5
+    },
+    "verified": 35246,
+    "guest": 1176913,
+    "trial_used": 22197,
+    "created_min": "2024-11-21 10:15:54.434495+00:00",
+    "created_max": "2026-09-29 12:17:10.740451+00:00",
+    "orders_total": 136006,
+    "orders_by_status": {
+      "paid": 69942,
+      "failed": 53929,
+      "pending": 12135
+    },
+    "orders_trial": 38920,
+    "subscriptions_total": 69968,
+    "subscriptions_by_product": {
+      "5": 63921,
+      "2": 5436,
+      "3": 489,
+      "4": 122
+    },
+    "transactions_total": 124863,
+    "transactions_by_status": {
+      "completed": 69686,
+      "failed": 53927,
+      "pending": 1250
+    }
+  },
+  "hypothesis_1_trial_abuse": {
+    "title": "Повторная регистрация для использования триала",
+    "trial_used_users": 22197,
+    "adv_ids_cols": [
+      "id",
+      "created_at"
+    ],
+    "adv_ids_rows": 1478243,
+    "external_cols": [
+      "id",
+      "account_id",
+      "service_name",
+      "user_id",
+      "created_at",
+      "raw_info"
+    ],
+    "external_rows": 185529,
+    "external_id_col_guess": "account_id",
+    "multi_user_external_ids": 0,
+    "max_users_per_external": 0,
+    "device_code_cols": [
+      "id",
+      "accepted_at",
+      "accepted_by_user_id",
+      "used_at",
+      "device_id",
+      "expires_at",
+      "created_at"
+    ],
+    "multi_user_devices_via_code": 0,
+    "max_users_per_device_code": 0,
+    "guest_users": 1176913,
+    "guest_share": 0.6379347166211352,
+    "guest_trial_used": 0,
+    "top_domains_real": {
+      "gmail.com": 331676,
+      "yandex.ru": 205216,
+      "mail.ru": 80062,
+      "bk.ru": 9642,
+      "privaterelay.appleid.com": 9410,
+      "icloud.com": 5523,
+      "inbox.ru": 4074,
+      "list.ru": 3937,
+      "yandex.com": 3439,
+      "internet.ru": 3439,
+      "rambler.ru": 1520,
+      "emalupe.com": 1285,
+      "xmail.ru": 1101,
+      "ya.ru": 821,
+      "vk.com": 777
+    }
+  },
+  "hypothesis_2_traffic_limits": {
+    "title": "Оптимальные лимиты трафика для бесплатного тарифа",
+    "products": [
+      {
+        "id": "4",
+        "name": "Diamond",
+        "gradient_color": "{00D1EE,5749FF}",
+        "limit_id": "4",
+        "image_url": "https://static.pipstervpn.com/vpn/diamond.svg",
+        "tap_url": "https://app.pipster.win/profile/subscription",
+        "created_at": "2025-04-15 09:10:48.734935",
+        "amount": 21.99,
+        "currency": "USD"
+      },
+      {
+        "id": "1",
+        "name": "Basic",
+        "gradient_color": "{7CC6FF,816DFF}",
+        "limit_id": "1",
+        "image_url": "https://static.pipstervpn.com/vpn/free.svg",
+        "tap_url": "https://app.pipster.win/profile/subscription",
+        "created_at": "2025-04-15 09:10:48.734935",
+        "amount": 0.0,
+        "currency": "USD"
+      },
+      {
+        "id": "2",
+        "name": "Silver",
+        "gradient_color": "{6C69FF,C376FF}",
+        "limit_id": "2",
+        "image_url": "https://static.pipstervpn.com/vpn/basic.svg",
+        "tap_url": "https://app.pipster.win/profile/subscription",
+        "created_at": "2025-04-15 09:10:48.734935",
+        "amount": 8.99,
+        "currency": "USD"
+      },
+      {
+        "id": "3",
+        "name": "Gold",
+        "gradient_color": "{FF69B1,C376FF}",
+        "limit_id": "3",
+        "image_url": "https://static.pipstervpn.com/vpn/premium.svg",
+        "tap_url": "https://app.pipster.win/profile/subscription",
+        "created_at": "2025-04-15 09:10:48.734935",
+        "amount": 12.49,
+        "currency": "USD"
+      },
+      {
+        "id": "5",
+        "name": "Lite",
+        "gradient_color": "{61D5FF,00E1B4}",
+        "limit_id": "5",
+        "image_url": "https://static.pipstervpn.com/vpn/lite.svg",
+        "tap_url": "https://app.pipster.win/profile/subscription",
+        "created_at": "2025-05-23 10:04:30.427987",
+        "amount": 4.49,
+        "currency": "USD"
+      }
+    ],
+    "product_periods_cols": [
+      "id",
+      "name",
+      "duration_months"
+    ],
+    "product_periods_rows": [
+      {
+        "id": "1",
+        "name": "1 месяц",
+        "duration_months": "1"
+      },
+      {
+        "id": "2",
+        "name": "6 месяцев",
+        "duration_months": "6"
+      },
+      {
+        "id": "3",
+        "name": "1 год",
+        "duration_months": "12"
+      },
+      {
+        "id": "4",
+        "name": "2 года",
+        "duration_months": "24"
+      }
+    ],
+    "proxy_logs_cols": [
+      "id",
+      "user_id",
+      "node_id",
+      "subscribe_id",
+      "created_at"
+    ],
+    "proxy_logs_rows": 340966,
+    "proxy_logs_with_product": 28665,
+    "product_4_daily_conn": {
+      "mean": 2.376851851851852,
+      "median": 2.0,
+      "p90": 5.0,
+      "p95": 7.0,
+      "max": 28
+    },
+    "product_5_daily_conn": {
+      "mean": 2.94278135657446,
+      "median": 2.0,
+      "p90": 6.0,
+      "p95": 9.0,
+      "max": 55
+    },
+    "product_2_daily_conn": {
+      "mean": 2.404552509053285,
+      "median": 2.0,
+      "p90": 5.0,
+      "p95": 6.0,
+      "max": 49
+    },
+    "product_3_daily_conn": {
+      "mean": 2.62396694214876,
+      "median": 2.0,
+      "p90": 6.0,
+      "p95": 7.0,
+      "max": 16
+    },
+    "daily_conn_overall": {
+      "mean": 4.670689442610375,
+      "median": 3.0,
+      "p90": 10.0,
+      "p95": 14.0
+    },
+    "product_4_monthly_conn": {
+      "mean": 21.571428571428573,
+      "median": 13.0,
+      "p90": 53.0,
+      "p95": 64.19999999999999,
+      "max": 133
+    },
+    "product_5_monthly_conn": {
+      "mean": 22.87481590574374,
+      "median": 11.0,
+      "p90": 61.0,
+      "p95": 89.10000000000002,
+      "max": 230
+    },
+    "product_2_monthly_conn": {
+      "mean": 18.085603112840467,
+      "median": 8.0,
+      "p90": 45.69999999999999,
+      "p95": 63.0,
+      "max": 264
+    },
+    "product_3_monthly_conn": {
+      "mean": 22.280701754385966,
+      "median": 9.0,
+      "p90": 61.0,
+      "p95": 70.19999999999993,
+      "max": 94
+    },
+    "note": "Connection logs do not contain traffic bytes; analysis uses connection counts as proxy. Product 1 appears to be Basic/Free by naming."
+  },
+  "hypothesis_3_conversion_path": {
+    "title": "Путь до покупки: триал, бесплатный тариф, конверсия",
+    "paid_orders": 69942,
+    "paid_trial_orders": 22198,
+    "paid_nontrial_orders": 47744,
+    "users_with_paid_order": 29022,
+    "days_to_first_paid": {
+      "mean": 47.28660801490838,
+      "median": 15.03550455175926,
+      "p25": 2.8980788262557873,
+      "p75": 62.22112239873264,
+      "p90": 137.7484004324491
+    },
+    "first_paid_is_trial": 22036,
+    "first_paid_not_trial": 6986,
+    "days_to_first_paid_trial": {
+      "mean": 44.964386514693814,
+      "median": 16.304718399537037,
+      "p75": 61.39712284570602
+    },
+    "days_to_first_paid_nontrial": {
+      "mean": 54.47523656602957,
+      "median": 11.511805663460649,
+      "p75": 64.80538600109375
+    },
+    "paid_users_never_used_trial": 6829,
+    "paid_users_never_used_trial_share": 0.235304251946799,
+    "total_users": 1844880,
+    "paid_user_share": 0.015731104462078833,
+    "days_trial_to_paid": {
+      "mean": -0.45158866022078975,
+      "median": -0.0005546365856481481,
+      "p75": -0.00033580277777777774,
+      "p90": -0.0002467704004629629
+    },
+    "bought_after_trial_same_day_or_before": 22192
+  },
+  "hypothesis_4_incidents": {
+    "title": "Паттерны в логах инцидентов",
+    "task_history_rows": 387,
+    "task_history_cols": [
+      "id",
+      "name",
+      "stage_msg",
+      "error_msg",
+      "created_at"
+    ],
+    "task_history_stage_msg_top": {
+      "Нода успешно создана": 232,
+      "Нода успешно обновлена": 126,
+      "NaN": 29
+    },
+    "task_history_error_msg_top": {
+      "NaN": 358,
+      "Ошибка подключения к серверу: ssh: handshake failed: ssh: unable to authenticate, attempted methods [none password], no supported methods remain": 13,
+      "Ошибка создания ноды в remna: error create node decode response: decode application/json: invalid: statusCode (field required), errors (field required)": 3,
+      "Ошибка создания PAID_VLESS_TCP_REALITY_XHTTP хоста в remna: error create host validate: invalid: remark (string: len 42 greater than maximum 40)": 2,
+      "Ошибка подключения к серверу: ssh: handshake failed: read tcp 172.18.0.7:42372->45.145.43.51:22: read: connection reset by peer": 1,
+      "Ошибка подключения к серверу: dial tcp 193.42.12.57:22: connect: connection timed out": 1,
+      "Ошибка подключения к серверу: dial tcp 141.98.6.170:22: connect: connection timed out": 1,
+      "Ошибка подключения к серверу: ssh: handshake failed: read tcp 172.18.0.7:38836->45.145.43.51:22: read: connection reset by peer": 1,
+      "Ошибка подключения к серверу: dial tcp 185.39.207.17:22: connect: connection timed out": 1,
+      "Ошибка записи скрипта: connection lost": 1,
+      "Ошибка создания ноды в remna: unknown response remnawave &{{2026-05-07T13:17:32.729Z true} {/api/nodes true} {Create node error true} {A032 true}}": 1,
+      "Ошибка создания PAID_VLESS_TCP_REALITY_XHTTP хоста в remna: error create host validate: invalid: remark (string: len 41 greater than maximum 40)": 1,
+      "Ошибка создания ноды в remna: unknown response remnawave &{{2026-05-07T14:09:42.810Z true} {/api/nodes true} {Create node error true} {A032 true}}": 1,
+      "Ошибка подключения к серверу: dial tcp 193.228.193.161:22: connect: connection refused": 1,
+      "Ошибка создания SFTP клиента: ssh: subsystem request failed": 1
+    },
+    "error_like_cols": [
+      "stage_msg",
+      "error_msg"
+    ],
+    "stage_msg_values": {
+      "Нода успешно создана": 232,
+      "Нода успешно обновлена": 126,
+      "NaN": 29
+    },
+    "error_msg_values": {
+      "NaN": 358,
+      "Ошибка подключения к серверу: ssh: handshake failed: ssh: unable to authenticate, attempted methods [none password], no supported methods remain": 13,
+      "Ошибка создания ноды в remna: error create node decode response: decode application/json: invalid: statusCode (field required), errors (field required)": 3,
+      "Ошибка создания PAID_VLESS_TCP_REALITY_XHTTP хоста в remna: error create host validate: invalid: remark (string: len 42 greater than maximum 40)": 2,
+      "Ошибка подключения к серверу: ssh: handshake failed: read tcp 172.18.0.7:42372->45.145.43.51:22: read: connection reset by peer": 1,
+      "Ошибка подключения к серверу: dial tcp 193.42.12.57:22: connect: connection timed out": 1,
+      "Ошибка подключения к серверу: dial tcp 141.98.6.170:22: connect: connection timed out": 1,
+      "Ошибка подключения к серверу: ssh: handshake failed: read tcp 172.18.0.7:38836->45.145.43.51:22: read: connection reset by peer": 1,
+      "Ошибка подключения к серверу: dial tcp 185.39.207.17:22: connect: connection timed out": 1,
+      "Ошибка записи скрипта: connection lost": 1,
+      "Ошибка создания ноды в remna: unknown response remnawave &{{2026-05-07T13:17:32.729Z true} {/api/nodes true} {Create node error true} {A032 true}}": 1,
+      "Ошибка создания PAID_VLESS_TCP_REALITY_XHTTP хоста в remna: error create host validate: invalid: remark (string: len 41 greater than maximum 40)": 1,
+      "Ошибка создания ноды в remna: unknown response remnawave &{{2026-05-07T14:09:42.810Z true} {/api/nodes true} {Create node error true} {A032 true}}": 1,
+      "Ошибка подключения к серверу: dial tcp 193.228.193.161:22: connect: connection refused": 1,
+      "Ошибка создания SFTP клиента: ssh: subsystem request failed": 1
+    },
+    "logs_zip_note": "logs.zip (4.7GB) is very large; analysis below covers task_history and available connection/transaction patterns. If logs.zip contains app incident logs, extract and run grep/count by error type, platform, app version.",
+    "tx_status": {
+      "completed": 69686,
+      "failed": 53927,
+      "pending": 1250
+    },
+    "tx_failed": 53927,
+    "failed_tx_by_hour": {
+      "0": 621,
+      "1": 618,
+      "2": 808,
+      "3": 989,
+      "4": 1470,
+      "5": 1826,
+      "6": 2134,
+      "7": 2563,
+      "8": 2505,
+      "9": 2730,
+      "10": 2942,
+      "11": 2908,
+      "12": 3104,
+      "13": 3056,
+      "14": 3150,
+      "15": 3268,
+      "16": 3310,
+      "17": 3646,
+      "18": 3275,
+      "19": 3144,
+      "20": 2352,
+      "21": 1599,
+      "22": 1096,
+      "23": 813
+    },
+    "order_status": {
+      "paid": 69942,
+      "failed": 53929,
+      "pending": 12135
+    },
+    "order_status_by_provider": {
+      "1": {
+        "failed": 92,
+        "paid": 53,
+        "pending": 891
+      },
+      "2": {
+        "failed": 53837,
+        "paid": 69716,
+        "pending": 10884
+      },
+      "3": {
+        "failed": 0,
+        "paid": 24,
+        "pending": 360
+      }
+    }
+  },
+  "hypothesis_5_platforms": {
+    "title": "Платформы, устройства и поведение"
+  }
+}

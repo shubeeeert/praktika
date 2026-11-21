@@ -1,0 +1,630 @@
+[
+  {
+    "file": "adv_view_history.csv",
+    "size": 29218512,
+    "error": "[Errno 13] Permission denied: 'data\\\\adv_view_history.csv'"
+  },
+  {
+    "file": "advertising_ids.csv",
+    "size": 100540291,
+    "cols": [
+      "7a72aa2e-faca-46b0-abda-89c8dfc62adc",
+      "2025-07-01 13:27:33.864106+03"
+    ],
+    "sample": {
+      "7a72aa2e-faca-46b0-abda-89c8dfc62adc": "c6a2da67-bfa5-4777-8c62-a9c62a856c81",
+      "2025-07-01 13:27:33.864106+03": "2025-07-09 23:27:08.370699+03"
+    }
+  },
+  {
+    "file": "client_app_config.csv",
+    "size": 45,
+    "cols": [
+      "windows",
+      "Ok"
+    ],
+    "sample": {
+      "windows": "macos",
+      "Ok": "Ok"
+    }
+  },
+  {
+    "file": "country_disabled_products.csv",
+    "size": 100,
+    "cols": [
+      "KZ",
+      "1",
+      "2026-03-19 16:07:43.38918"
+    ],
+    "sample": {
+      "KZ": "RU",
+      "1": "1",
+      "2026-03-19 16:07:43.38918": "2026-03-19 16:07:46.20577"
+    }
+  },
+  {
+    "file": "currency_rates.csv",
+    "size": 117,
+    "cols": [
+      "US",
+      "USD",
+      "1",
+      "2026-09-04 12:57:12.336856"
+    ],
+    "sample": {
+      "US": "RU",
+      "USD": "RUB",
+      "1": "90",
+      "2026-09-04 12:57:12.336856": "2026-09-04 12:57:12.336856"
+    }
+  },
+  {
+    "file": "device_code.csv",
+    "size": 36914746,
+    "cols": [
+      "b858b8b1-d841-494b-9436-00cc046c634f",
+      "2025-09-12 10:45:43.723462",
+      "7438",
+      "2025-09-12 10:45:46.710307",
+      "26f29b37-135c-4231-9efa-a184bf53e226",
+      "2025-09-12 10:50:36.669149",
+      "2025-09-12 10:45:36.669149"
+    ],
+    "sample": {
+      "b858b8b1-d841-494b-9436-00cc046c634f": "25e4e51c-0625-40e7-b641-3fb0caec2c14",
+      "2025-09-12 10:45:43.723462": "2025-09-09 08:03:52.484669",
+      "7438": "7438",
+      "2025-09-12 10:45:46.710307": "2025-09-09 08:03:57.117292",
+      "26f29b37-135c-4231-9efa-a184bf53e226": "a75482fd-1a10-4b0d-aa9b-208420deae81",
+      "2025-09-12 10:50:36.669149": "2025-09-09 08:08:42.07632",
+      "2025-09-12 10:45:36.669149": "2025-09-09 08:03:42.07632"
+    }
+  },
+  {
+    "file": "devices.csv",
+    "size": 29217360,
+    "error": "[Errno 13] Permission denied: 'data\\\\devices.csv'"
+  },
+  {
+    "file": "external_accounts.csv",
+    "size": 17736765,
+    "cols": [
+      "992f1be5-a8d3-4f68-a988-1b3c0d76099c",
+      "69822508",
+      "yandex",
+      "42924",
+      "2025-09-04 14:27:33.071472",
+      "{}"
+    ],
+    "sample": {
+      "992f1be5-a8d3-4f68-a988-1b3c0d76099c": "ae90207b-1de8-488b-b9a4-2b0c305e5d79",
+      "69822508": "2242680219",
+      "yandex": "yandex",
+      "42924": "44763",
+      "2025-09-04 14:27:33.071472": "2025-09-08 10:28:13.26956",
+      "{}": "{}"
+    }
+  },
+  {
+    "file": "goose_db_version.csv",
+    "size": 4970,
+    "cols": [
+      "1",
+      "0",
+      "t",
+      "2025-01-27 13:21:40.688068"
+    ],
+    "sample": {
+      "1": "2",
+      "0": "20241030112058",
+      "t": "t",
+      "2025-01-27 13:21:40.688068": "2025-01-27 13:21:40.729794"
+    }
+  },
+  {
+    "file": "locale.csv",
+    "size": 28911,
+    "cols": [
+      "en",
+      "{\"\": \"kzkzkz\", \"США\": \"USA\", \"Чад\": \"Chad\", \"1 год\": \"1 year\", \"Гана\": \"Ghana\", \"Гуам\": \"Guam\", \"Ирак\": \"Iraq\", \"Иран\": \"Iran (Islamic Republic of)\", \"Кипр\": \"Cyprus\", \"Куба\": \"Cuba\", \"Лаос\": \"Lao People's Democratic Republic (the)\", \"Мали\": \"Mali\", \"Ниуэ\": \"Niue\", \"Оман\": \"Oman\", \"Перу\": \"Peru\", \"Того\": \"Togo\", \"Чили\": \"Chile\", \"2 года\": \"2 years\", \"Алжир\": \"Algeria\", \"Аруба\": \"Aruba\", \"Белиз\": \"Belize\", \"Бенин\": \"Benin\", \"Бутан\": \"Bhutan\", \"Габон\": \"Gabon\", \"Гаити\": \"Haiti\", \"Дания\": \"Denmark\", \"Индия\": \"India\", \"Йемен\": \"Yemen\", \"Катар\": \"Qatar\", \"Кения\": \"Kenya\", \"Китай\": \"China\", \"Ливан\": \"Lebanon\", \"Ливия\": \"Libya\", \"Литва\": \"Lithuania\", \"Макао\": \"Macao\", \"Науру\": \"Nauru\", \"Непал\": \"Nepal\", \"Нигер\": \"Niger (the)\", \"Палау\": \"Palau\", \"Самоа\": \"Samoa\", \"Сирия\": \"Syrian Arab Republic\", \"Судан\": \"Sudan (the)\", \"Тонга\": \"Tonga\", \"Тунис\": \"Tunisia\", \"Фиджи\": \"Fiji\", \"Чехия\": \"Czechia\", \"1 месяц\": \"1 month\", \"Ангола\": \"Angola\", \"Багамы\": \"Bahamas (the)\", \"Гайана\": \"Guyana\", \"Гамбия\": \"Gambia (the)\", \"Гвинея\": \"Guinea\", \"Гернси\": \"Guernsey\", \"Греция\": \"Greece\", \"Грузия\": \"Georgia\", \"Джерси\": \"Jersey\", \"Египет\": \"Egypt\", \"Замбия\": \"Zambia\", \"Италия\": \"Italy\", \"Канада\": \"Canada\", \"Коморы\": \"Comoros (the)\", \"Кувейт\": \"Kuwait\", \"Латвия\": \"Latvia\", \"Лесото\": \"Lesotho\", \"Малави\": \"Malawi\", \"Мальта\": \"Malta\", \"Монако\": \"Monaco\", \"Мьянма\": \"Myanmar\", \"Панама\": \"Panama\", \"Польша\": \"Poland\", \"Россия\": \"Russia\", \"Руанда\": \"Rwanda\", \"Сербия\": \"Serbia\", \"Сомали\": \"Somalia\", \"Тувалу\": \"Tuvalu\", \"Турция\": \"Turkey\", \"Уганда\": \"Uganda\", \"Швеция\": \"Sweden\", \"Ямайка\": \"Jamaica\", \"Япония\": \"Japan\", \"Австрия\": \"Austria\", \"Албания\": \"Albania\", \"Андорра\": \"Andorra\", \"Армения\": \"Armenia\", \"Бахрейн\": \"Bahrain\", \"Бельгия\": \"Belgium\", \"Бермуды\": \"Bermuda\", \"Боливия\": \"Bolivia (Plurinational State of)\", \"Бурунди\": \"Burundi\", \"Вануату\": \"Vanuatu\", \"Ватикан\": \"Holy See (the)\", \"Венгрия\": \"Hungary\", \"Вьетнам\": \"Viet Nam\", \"Гонконг\": \"Hong Kong\", \"Гренада\": \"Grenada\", \"Джибути\": \"Djibouti\", \"Израиль\": \"Israel\", \"Испания\": \"Spain\", \"Камерун\": \"Cameroon\", \"Комфорт\": \"Comfort\", \"Кюрасао\": \"Curaçao\", \"Либерия\": \"Liberia\", \"Майотта\": \"Mayotte\", \"Марокко\": \"Morocco\", \"Мексика\": \"Mexico\", \"Молдова\": \"Moldova (the Republic of)\", \"Намибия\": \"Namibia\", \"Нигерия\": \"Nigeria\", \"Перейти\": \"Proceed\", \"Питкэрн\": \"Pitcairn\", \"Реюньон\": \"Réunion\", \"Румыния\": \"Romania\", \"Сенегал\": \"Senegal\", \"Суринам\": \"Suriname\", \"Таиланд\": \"Thailand\", \"Тайвань\": \"Taiwan (Province of China)\", \"Токелау\": \"Tokelau\", \"Украина\": \"Ukraine\", \"Уругвай\": \"Uruguay\", \"Франция\": \"France\", \"Эквадор\": \"Ecuador\", \"Эритрея\": \"Eritrea\", \"Эстония\": \"Estonia\", \"Эфиопия\": \"Ethiopia\", \"6 месяцев\": \"6 months\", \"Ангуилья\": \"Anguilla\", \"Барбадос\": \"Barbados\", \"Беларусь\": \"Belarus\", \"Болгария\": \"Bulgaria\", \"Ботсвана\": \"Botswana\", \"Бразилия\": \"Brazil\", \"Германия\": \"Germany\", \"Гондурас\": \"Honduras\", \"Доминика\": \"Dominica\", \"Зимбабве\": \"Zimbabwe\", \"Иордания\": \"Jordan\", \"Ирландия\": \"Ireland\", \"Исландия\": \"Iceland\", \"Камбоджа\": \"Cambodia\", \"Кирибати\": \"Kiribati\", \"Колумбия\": \"Colombia\", \"Маврикий\": \"Mauritius\", \"Малайзия\": \"Malaysia\", \"Мальдивы\": \"Maldives\", \"Мозамбик\": \"Mozambique\", \"Монголия\": \"Mongolia\", \"Норвегия\": \"Norway\", \"Пакистан\": \"Pakistan\", \"Парагвай\": \"Paraguay\", \"Сингапур\": \"Singapore\", \"Словакия\": \"Slovakia\", \"Словения\": \"Slovenia\", \"Танзания\": \"Tanzania, United Republic of\", \"Хорватия\": \"Croatia\", \"Эсватини\": \"Eswatini\", \"Не сейчас\": \"Not now\", \"Шри-Ланка\": \"Sri Lanka\", \"Австралия\": \"Australia\", \"Аргентина\": \"Argentina\", \"Бангладеш\": \"Bangladesh\", \"Венесуэла\": \"Venezuela (Bolivarian Republic of)\", \"Гваделупа\": \"Guadeloupe\", \"Гватемала\": \"Guatemala\", \"Гибралтар\": \"Gibraltar\", \"Индонезия\": \"Indonesia\", \"Казахстан\": \"Kazakhstan\", \"Мартиника\": \"Martinique\", \"Никарагуа\": \"Nicaragua\", \"Палестина\": \"Palestine, State of\", \"Сальвадор\": \"El Salvador\", \"Филиппины\": \"Philippines (the)\", \"Финляндия\": \"Finland\", \"Швейцария\": \"Switzerland\", \"Кабо-Верде\": \"Cabo Verde\", \"Коста-Рика\": \"Costa Rica\", \"Остров Мэн\": \"Isle of Man\", \"Сан-Марино\": \"San Marino\", \"Сент-Люсия\": \"Saint Lucia\", \"Антарктида\": \"Antarctica\", \"Афганистан\": \"Afghanistan\", \"Гренландия\": \"Greenland\", \"Кот-д'Ивуар\": \"Côte d'Ivoire\", \"Кыргызстан\": \"Kyrgyzstan\", \"Люксембург\": \"Luxembourg\", \"Мавритания\": \"Mauritania\", \"Мадагаскар\": \"Madagascar\", \"Монтсеррат\": \"Montserrat\", \"Нидерланды\": \"Netherlands\", \"Португалия\": \"Portugal\", \"Узбекистан\": \"Uzbekistan\", \"Черногория\": \"Montenegro\", \"Остров Буве\": \"Bouvet Island\", \"Польша Бета\": \"Poland Beta\", \"Пуэрто-Рико\": \"Puerto Rico\", \"Тимор-Лесте\": \"Timor-Leste\", \"Южная Корея\": \"Korea (the Republic of)\", \"Южный Судан\": \"South Sudan\", \"Азербайджан\": \"Azerbaijan\", \"Лихтенштейн\": \"Liechtenstein\", \"Попробовать\": \"Try it\", \"Таджикистан\": \"Tajikistan\", \"Буркина-Фасо\": \"Burkina Faso\", \"Гвинея-Бисау\": \"Guinea-Bissau\", \"Острова Кука\": \"Cook Islands (the)\", \"Сьерра-Леоне\": \"Sierra Leone\", \"Эстония Бета\": \"Estonia Beta\", \"Криптовалюта\": \"Crypto\", \"Туркменистан\": \"Turkmenistan\", \"payment_categories.info.1\": \"Visa/Mastercard\", \"payment_categories.info.2\": \"Cards of Russian banks\", \"payment_categories.info.3\": \"\", \"Выбор сервера\": \"Server selection\", \"Германия Бета\": \"Germany Beta\", \"Сен-Бартелеми\": \"Saint Barthélemy\", \"Теркс и Кайкос\": \"Turks and Caicos Islands (the)\", \"Новая Зеландия\": \"New Zealand\", \"Остров Норфолк\": \"Norfolk Island\", \"Финляндия Бета\": \"Finland Beta\", \"Великобритания\": \"United Kingdom\", \"Уоллис и Футуна\": \"Wallis and Futuna\", \"Западная Сахара\": \"Western Sahara\", \"Новая Каледония\": \"New Caledonia\", \"VPN для всей семьи\": \"VPN for the whole family\", \"payment_providers.description.1\": \"\", \"payment_providers.description.2\": \"\", \"payment_providers.description.3\": \"\", \"Остров Рождества\": \"Christmas Island\", \"Республика Конго\": \"Congo (the)\", \"Российская карта\": \"Russian card\", \"Сент-Китс и Невис\": \"Saint Kitts and Nevis\", \"Антигуа и Барбуда\": \"Antigua and Barbuda\", \"Тринидад и Тобаго\": \"Trinidad and Tobago\", \"Аландские острова\": \"Åland Islands\", \"Бруней-Даруссалам\": \"Brunei Darussalam\", \"Каймановы острова\": \"Cayman Islands (the)\", \"Саудовская Аравия\": \"Saudi Arabia\", \"Сен-Пьер и Микелон\": \"Saint Pierre and Miquelon\", \"Фарерские острова\": \"Faroe Islands (the)\", \"Американское Самоа\": \"American Samoa\", \"Маршалловы Острова\": \"Marshall Islands (the)\", \"Сан-Томе и Принсипи\": \"Sao Tome and Principe\", \"Северная Македония\": \"Republic of North Macedonia\", \"Соломоновы Острова\": \"Solomon Islands\", \"Французская Гвиана\": \"French Guiana\", \"Международная карта\": \"Worldwide Visa / Mastercard\", \"Сейшельские Острова\": \"Seychelles\", \"payment_categories.short_description.1\": \"Payment will be made through our payment partner, TipTop Pay. Legal entity: ViPiN LLP, Country: Republic of Kazakhstan, Payment currency: KZT\", \"payment_categories.short_description.2\": \"\", \"payment_categories.short_description.3\": \"Subscriptions purchased with cryptocurrency do not renew automatically. We recommend choosing licenses with longer terms to avoid having to manually renew them frequently\", \"Босния и Герцеговина\": \"Bosnia and Herzegovina\", \"КНДР (Северная Корея)\": \"Korea (the Democratic People's Republic of)\", \"Папуа — Новая Гвинея\": \"Papua New Guinea\", \"Сен-Мартен (фр. часть)\": \"Saint Martin (French part)\", \"Visa/Mastercard любой страны\": \"Visa/Mastercard from any country\", \"Шпицберген и Ян-Майен\": \"Svalbard and Jan Mayen\", \"Французская Полинезия\": \"French Polynesia\", \"Экваториальная Гвинея\": \"Equatorial Guinea\", \"Сент-Винсент и Гренадины\": \"Saint Vincent and the Grenadines\", \"Внешние малые острова США\": \"United States Minor Outlying Islands (the)\", \"Доминиканская Республика\": \"Dominican Republic (the)\", \"Кокосовые (Килинг) острова\": \"Cocos (Keeling) Islands (the)\", \"Синт-Мартен (нидерл. часть)\": \"Sint Maarten (Dutch part)\", \"Бонэйр, Синт-Эстатиус и Саба\": \"Bonaire, Sint Eustatius and Saba\", \"Для карт выпущенных в России\": \"For cards issued in Russia\", \"Северные Марианские острова\": \"Northern Mariana Islands (the)\", \"Южно-Африканская Республика\": \"South Africa\", \"Французские Южные территории\": \"French Southern Territories (the)\", \"Полный доступ без ограничений\": \"Full access without limits\", \"Британские Виргинские острова\": \"Virgin Islands (British)\", \"Объединенные Арабские Эмираты\": \"United Arab Emirates (the)\", \"Федеративные Штаты Микронезии\": \"Micronesia (Federated States of)\", \"Обработка: до 30 минут. Через Stripe\": \"Processing time: up to 30 minutes. Via Stripe\", \"Американские Виргинские острова\": \"Virgin Islands (U.S.)\", \"Остров Херд и острова Макдональд\": \"Heard Island and McDonald Islands\", \"Демократическая Республика Конго\": \"Congo (the Democratic Republic of the)\", \"Центральноафриканская Республика\": \"Central African Republic (the)\", \"Используй VPN на нескольких устройствах\": \"Use VPN on multiple devices\", \"Пользуйся VPN без отвлекающих элементов\": \"Use VPN without distractions\", \"Южная Георгия и Южные Сандвичевы острова\": \"South Georgia and the South Sandwich Islands\", \"Британская территория в Индийском океане\": \"British Indian Ocean Territory (the)\", \"Фолклендские острова (Мальвинские острова)\": \"Falkland Islands (the) [Malvinas]\", \"Острова Святой Елены, Вознесения и Тристан-да-Кунья\": \"Saint Helena, Ascension and Tristan da Cunha\", \"Получи доступ к большему числу серверов и выбирай регион сам\": \"Get access to more servers and choose your region yourself\", \"Получите полный доступ ко всем функциям приложения всего за 30₽\": \"Get full access to all app features for just 30₽\"}"
+    ],
+    "sample": {
+      "en": "ru",
+      "{\"\": \"kzkzkz\", \"США\": \"USA\", \"Чад\": \"Chad\", \"1 год\": \"1 year\", \"Гана\": \"Ghana\", \"Гуам\": \"Guam\", \"Ирак\": \"Iraq\", \"Иран\": \"Iran (Islamic Republic of)\", \"Кипр\": \"Cyprus\", \"Куба\": \"Cuba\", \"Лаос\": \"Lao People's Democratic Republic (the)\", \"Мали\": \"Mali\", \"Ниуэ\": \"Niue\", \"Оман\": \"Oman\", \"Перу\": \"Peru\", \"Того\": \"Togo\", \"Чили\": \"Chile\", \"2 года\": \"2 years\", \"Алжир\": \"Algeria\", \"Аруба\": \"Aruba\", \"Белиз\": \"Belize\", \"Бенин\": \"Benin\", \"Бутан\": \"Bhutan\", \"Габон\": \"Gabon\", \"Гаити\": \"Haiti\", \"Дания\": \"Denmark\", \"Индия\": \"India\", \"Йемен\": \"Yemen\", \"Катар\": \"Qatar\", \"Кения\": \"Kenya\", \"Китай\": \"China\", \"Ливан\": \"Lebanon\", \"Ливия\": \"Libya\", \"Литва\": \"Lithuania\", \"Макао\": \"Macao\", \"Науру\": \"Nauru\", \"Непал\": \"Nepal\", \"Нигер\": \"Niger (the)\", \"Палау\": \"Palau\", \"Самоа\": \"Samoa\", \"Сирия\": \"Syrian Arab Republic\", \"Судан\": \"Sudan (the)\", \"Тонга\": \"Tonga\", \"Тунис\": \"Tunisia\", \"Фиджи\": \"Fiji\", \"Чехия\": \"Czechia\", \"1 месяц\": \"1 month\", \"Ангола\": \"Angola\", \"Багамы\": \"Bahamas (the)\", \"Гайана\": \"Guyana\", \"Гамбия\": \"Gambia (the)\", \"Гвинея\": \"Guinea\", \"Гернси\": \"Guernsey\", \"Греция\": \"Greece\", \"Грузия\": \"Georgia\", \"Джерси\": \"Jersey\", \"Египет\": \"Egypt\", \"Замбия\": \"Zambia\", \"Италия\": \"Italy\", \"Канада\": \"Canada\", \"Коморы\": \"Comoros (the)\", \"Кувейт\": \"Kuwait\", \"Латвия\": \"Latvia\", \"Лесото\": \"Lesotho\", \"Малави\": \"Malawi\", \"Мальта\": \"Malta\", \"Монако\": \"Monaco\", \"Мьянма\": \"Myanmar\", \"Панама\": \"Panama\", \"Польша\": \"Poland\", \"Россия\": \"Russia\", \"Руанда\": \"Rwanda\", \"Сербия\": \"Serbia\", \"Сомали\": \"Somalia\", \"Тувалу\": \"Tuvalu\", \"Турция\": \"Turkey\", \"Уганда\": \"Uganda\", \"Швеция\": \"Sweden\", \"Ямайка\": \"Jamaica\", \"Япония\": \"Japan\", \"Австрия\": \"Austria\", \"Албания\": \"Albania\", \"Андорра\": \"Andorra\", \"Армения\": \"Armenia\", \"Бахрейн\": \"Bahrain\", \"Бельгия\": \"Belgium\", \"Бермуды\": \"Bermuda\", \"Боливия\": \"Bolivia (Plurinational State of)\", \"Бурунди\": \"Burundi\", \"Вануату\": \"Vanuatu\", \"Ватикан\": \"Holy See (the)\", \"Венгрия\": \"Hungary\", \"Вьетнам\": \"Viet Nam\", \"Гонконг\": \"Hong Kong\", \"Гренада\": \"Grenada\", \"Джибути\": \"Djibouti\", \"Израиль\": \"Israel\", \"Испания\": \"Spain\", \"Камерун\": \"Cameroon\", \"Комфорт\": \"Comfort\", \"Кюрасао\": \"Curaçao\", \"Либерия\": \"Liberia\", \"Майотта\": \"Mayotte\", \"Марокко\": \"Morocco\", \"Мексика\": \"Mexico\", \"Молдова\": \"Moldova (the Republic of)\", \"Намибия\": \"Namibia\", \"Нигерия\": \"Nigeria\", \"Перейти\": \"Proceed\", \"Питкэрн\": \"Pitcairn\", \"Реюньон\": \"Réunion\", \"Румыния\": \"Romania\", \"Сенегал\": \"Senegal\", \"Суринам\": \"Suriname\", \"Таиланд\": \"Thailand\", \"Тайвань\": \"Taiwan (Province of China)\", \"Токелау\": \"Tokelau\", \"Украина\": \"Ukraine\", \"Уругвай\": \"Uruguay\", \"Франция\": \"France\", \"Эквадор\": \"Ecuador\", \"Эритрея\": \"Eritrea\", \"Эстония\": \"Estonia\", \"Эфиопия\": \"Ethiopia\", \"6 месяцев\": \"6 months\", \"Ангуилья\": \"Anguilla\", \"Барбадос\": \"Barbados\", \"Беларусь\": \"Belarus\", \"Болгария\": \"Bulgaria\", \"Ботсвана\": \"Botswana\", \"Бразилия\": \"Brazil\", \"Германия\": \"Germany\", \"Гондурас\": \"Honduras\", \"Доминика\": \"Dominica\", \"Зимбабве\": \"Zimbabwe\", \"Иордания\": \"Jordan\", \"Ирландия\": \"Ireland\", \"Исландия\": \"Iceland\", \"Камбоджа\": \"Cambodia\", \"Кирибати\": \"Kiribati\", \"Колумбия\": \"Colombia\", \"Маврикий\": \"Mauritius\", \"Малайзия\": \"Malaysia\", \"Мальдивы\": \"Maldives\", \"Мозамбик\": \"Mozambique\", \"Монголия\": \"Mongolia\", \"Норвегия\": \"Norway\", \"Пакистан\": \"Pakistan\", \"Парагвай\": \"Paraguay\", \"Сингапур\": \"Singapore\", \"Словакия\": \"Slovakia\", \"Словения\": \"Slovenia\", \"Танзания\": \"Tanzania, United Republic of\", \"Хорватия\": \"Croatia\", \"Эсватини\": \"Eswatini\", \"Не сейчас\": \"Not now\", \"Шри-Ланка\": \"Sri Lanka\", \"Австралия\": \"Australia\", \"Аргентина\": \"Argentina\", \"Бангладеш\": \"Bangladesh\", \"Венесуэла\": \"Venezuela (Bolivarian Republic of)\", \"Гваделупа\": \"Guadeloupe\", \"Гватемала\": \"Guatemala\", \"Гибралтар\": \"Gibraltar\", \"Индонезия\": \"Indonesia\", \"Казахстан\": \"Kazakhstan\", \"Мартиника\": \"Martinique\", \"Никарагуа\": \"Nicaragua\", \"Палестина\": \"Palestine, State of\", \"Сальвадор\": \"El Salvador\", \"Филиппины\": \"Philippines (the)\", \"Финляндия\": \"Finland\", \"Швейцария\": \"Switzerland\", \"Кабо-Верде\": \"Cabo Verde\", \"Коста-Рика\": \"Costa Rica\", \"Остров Мэн\": \"Isle of Man\", \"Сан-Марино\": \"San Marino\", \"Сент-Люсия\": \"Saint Lucia\", \"Антарктида\": \"Antarctica\", \"Афганистан\": \"Afghanistan\", \"Гренландия\": \"Greenland\", \"Кот-д'Ивуар\": \"Côte d'Ivoire\", \"Кыргызстан\": \"Kyrgyzstan\", \"Люксембург\": \"Luxembourg\", \"Мавритания\": \"Mauritania\", \"Мадагаскар\": \"Madagascar\", \"Монтсеррат\": \"Montserrat\", \"Нидерланды\": \"Netherlands\", \"Португалия\": \"Portugal\", \"Узбекистан\": \"Uzbekistan\", \"Черногория\": \"Montenegro\", \"Остров Буве\": \"Bouvet Island\", \"Польша Бета\": \"Poland Beta\", \"Пуэрто-Рико\": \"Puerto Rico\", \"Тимор-Лесте\": \"Timor-Leste\", \"Южная Корея\": \"Korea (the Republic of)\", \"Южный Судан\": \"South Sudan\", \"Азербайджан\": \"Azerbaijan\", \"Лихтенштейн\": \"Liechtenstein\", \"Попробовать\": \"Try it\", \"Таджикистан\": \"Tajikistan\", \"Буркина-Фасо\": \"Burkina Faso\", \"Гвинея-Бисау\": \"Guinea-Bissau\", \"Острова Кука\": \"Cook Islands (the)\", \"Сьерра-Леоне\": \"Sierra Leone\", \"Эстония Бета\": \"Estonia Beta\", \"Криптовалюта\": \"Crypto\", \"Туркменистан\": \"Turkmenistan\", \"payment_categories.info.1\": \"Visa/Mastercard\", \"payment_categories.info.2\": \"Cards of Russian banks\", \"payment_categories.info.3\": \"\", \"Выбор сервера\": \"Server selection\", \"Германия Бета\": \"Germany Beta\", \"Сен-Бартелеми\": \"Saint Barthélemy\", \"Теркс и Кайкос\": \"Turks and Caicos Islands (the)\", \"Новая Зеландия\": \"New Zealand\", \"Остров Норфолк\": \"Norfolk Island\", \"Финляндия Бета\": \"Finland Beta\", \"Великобритания\": \"United Kingdom\", \"Уоллис и Футуна\": \"Wallis and Futuna\", \"Западная Сахара\": \"Western Sahara\", \"Новая Каледония\": \"New Caledonia\", \"VPN для всей семьи\": \"VPN for the whole family\", \"payment_providers.description.1\": \"\", \"payment_providers.description.2\": \"\", \"payment_providers.description.3\": \"\", \"Остров Рождества\": \"Christmas Island\", \"Республика Конго\": \"Congo (the)\", \"Российская карта\": \"Russian card\", \"Сент-Китс и Невис\": \"Saint Kitts and Nevis\", \"Антигуа и Барбуда\": \"Antigua and Barbuda\", \"Тринидад и Тобаго\": \"Trinidad and Tobago\", \"Аландские острова\": \"Åland Islands\", \"Бруней-Даруссалам\": \"Brunei Darussalam\", \"Каймановы острова\": \"Cayman Islands (the)\", \"Саудовская Аравия\": \"Saudi Arabia\", \"Сен-Пьер и Микелон\": \"Saint Pierre and Miquelon\", \"Фарерские острова\": \"Faroe Islands (the)\", \"Американское Самоа\": \"American Samoa\", \"Маршалловы Острова\": \"Marshall Islands (the)\", \"Сан-Томе и Принсипи\": \"Sao Tome and Principe\", \"Северная Македония\": \"Republic of North Macedonia\", \"Соломоновы Острова\": \"Solomon Islands\", \"Французская Гвиана\": \"French Guiana\", \"Международная карта\": \"Worldwide Visa / Mastercard\", \"Сейшельские Острова\": \"Seychelles\", \"payment_categories.short_description.1\": \"Payment will be made through our payment partner, TipTop Pay. Legal entity: ViPiN LLP, Country: Republic of Kazakhstan, Payment currency: KZT\", \"payment_categories.short_description.2\": \"\", \"payment_categories.short_description.3\": \"Subscriptions purchased with cryptocurrency do not renew automatically. We recommend choosing licenses with longer terms to avoid having to manually renew them frequently\", \"Босния и Герцеговина\": \"Bosnia and Herzegovina\", \"КНДР (Северная Корея)\": \"Korea (the Democratic People's Republic of)\", \"Папуа — Новая Гвинея\": \"Papua New Guinea\", \"Сен-Мартен (фр. часть)\": \"Saint Martin (French part)\", \"Visa/Mastercard любой страны\": \"Visa/Mastercard from any country\", \"Шпицберген и Ян-Майен\": \"Svalbard and Jan Mayen\", \"Французская Полинезия\": \"French Polynesia\", \"Экваториальная Гвинея\": \"Equatorial Guinea\", \"Сент-Винсент и Гренадины\": \"Saint Vincent and the Grenadines\", \"Внешние малые острова США\": \"United States Minor Outlying Islands (the)\", \"Доминиканская Республика\": \"Dominican Republic (the)\", \"Кокосовые (Килинг) острова\": \"Cocos (Keeling) Islands (the)\", \"Синт-Мартен (нидерл. часть)\": \"Sint Maarten (Dutch part)\", \"Бонэйр, Синт-Эстатиус и Саба\": \"Bonaire, Sint Eustatius and Saba\", \"Для карт выпущенных в России\": \"For cards issued in Russia\", \"Северные Марианские острова\": \"Northern Mariana Islands (the)\", \"Южно-Африканская Республика\": \"South Africa\", \"Французские Южные территории\": \"French Southern Territories (the)\", \"Полный доступ без ограничений\": \"Full access without limits\", \"Британские Виргинские острова\": \"Virgin Islands (British)\", \"Объединенные Арабские Эмираты\": \"United Arab Emirates (the)\", \"Федеративные Штаты Микронезии\": \"Micronesia (Federated States of)\", \"Обработка: до 30 минут. Через Stripe\": \"Processing time: up to 30 minutes. Via Stripe\", \"Американские Виргинские острова\": \"Virgin Islands (U.S.)\", \"Остров Херд и острова Макдональд\": \"Heard Island and McDonald Islands\", \"Демократическая Республика Конго\": \"Congo (the Democratic Republic of the)\", \"Центральноафриканская Республика\": \"Central African Republic (the)\", \"Используй VPN на нескольких устройствах\": \"Use VPN on multiple devices\", \"Пользуйся VPN без отвлекающих элементов\": \"Use VPN without distractions\", \"Южная Георгия и Южные Сандвичевы острова\": \"South Georgia and the South Sandwich Islands\", \"Британская территория в Индийском океане\": \"British Indian Ocean Territory (the)\", \"Фолклендские острова (Мальвинские острова)\": \"Falkland Islands (the) [Malvinas]\", \"Острова Святой Елены, Вознесения и Тристан-да-Кунья\": \"Saint Helena, Ascension and Tristan da Cunha\", \"Получи доступ к большему числу серверов и выбирай регион сам\": \"Get access to more servers and choose your region yourself\", \"Получите полный доступ ко всем функциям приложения всего за 30₽\": \"Get full access to all app features for just 30₽\"}": "{\"\": \"Крипта1\", \"США\": \"США\", \"Чад\": \"Чад\", \"1 год\": \"1 год\", \"Гана\": \"Гана\", \"Гуам\": \"Гуам\", \"Ирак\": \"Ирак\", \"Иран\": \"Иран\", \"Кипр\": \"Кипр\", \"Куба\": \"Куба\", \"Лаос\": \"Лаос\", \"Мали\": \"Мали\", \"Ниуэ\": \"Ниуэ\", \"Оман\": \"Оман\", \"Перу\": \"Перу\", \"Того\": \"Того\", \"Чили\": \"Чили\", \"2 года\": \"2 года\", \"Алжир\": \"Алжир\", \"Аруба\": \"Аруба\", \"Белиз\": \"Белиз\", \"Бенин\": \"Бенин\", \"Бутан\": \"Бутан\", \"Габон\": \"Габон\", \"Гаити\": \"Гаити\", \"Дания\": \"Дания\", \"Индия\": \"Индия\", \"Йемен\": \"Йемен\", \"Катар\": \"Катар\", \"Кения\": \"Кения\", \"Китай\": \"Китай\", \"Ливан\": \"Ливан\", \"Ливия\": \"Ливия\", \"Литва\": \"Литва\", \"Макао\": \"Макао\", \"Науру\": \"Науру\", \"Непал\": \"Непал\", \"Нигер\": \"Нигер\", \"Палау\": \"Палау\", \"Самоа\": \"Самоа\", \"Сирия\": \"Сирия\", \"Судан\": \"Судан\", \"Тонга\": \"Тонга\", \"Тунис\": \"Тунис\", \"Фиджи\": \"Фиджи\", \"Чехия\": \"Чехия\", \"1 месяц\": \"1 месяц\", \"Ангола\": \"Ангола\", \"Багамы\": \"Багамы\", \"Гайана\": \"Гайана\", \"Гамбия\": \"Гамбия\", \"Гвинея\": \"Гвинея\", \"Гернси\": \"Гернси\", \"Греция\": \"Греция\", \"Грузия\": \"Грузия\", \"Джерси\": \"Джерси\", \"Египет\": \"Египет\", \"Замбия\": \"Замбия\", \"Италия\": \"Италия\", \"Канада\": \"Канада\", \"Коморы\": \"Коморы\", \"Кувейт\": \"Кувейт\", \"Латвия\": \"Латвия\", \"Лесото\": \"Лесото\", \"Малави\": \"Малави\", \"Мальта\": \"Мальта\", \"Монако\": \"Монако\", \"Мьянма\": \"Мьянма\", \"Панама\": \"Панама\", \"Польша\": \"Польша\", \"Россия\": \"Россия\", \"Руанда\": \"Руанда\", \"Сербия\": \"Сербия\", \"Сомали\": \"Сомали\", \"Тувалу\": \"Тувалу\", \"Турция\": \"Турция\", \"Уганда\": \"Уганда\", \"Швеция\": \"Швеция\", \"Ямайка\": \"Ямайка\", \"Япония\": \"Япония\", \"Австрия\": \"Австрия\", \"Албания\": \"Албания\", \"Андорра\": \"Андорра\", \"Армения\": \"Армения\", \"Бахрейн\": \"Бахрейн\", \"Бельгия\": \"Бельгия\", \"Бермуды\": \"Бермуды\", \"Боливия\": \"Боливия\", \"Бурунди\": \"Бурунди\", \"Вануату\": \"Вануату\", \"Ватикан\": \"Ватикан\", \"Венгрия\": \"Венгрия\", \"Вьетнам\": \"Вьетнам\", \"Гонконг\": \"Гонконг\", \"Гренада\": \"Гренада\", \"Джибути\": \"Джибути\", \"Израиль\": \"Израиль\", \"Испания\": \"Испания\", \"Камерун\": \"Камерун\", \"Кюрасао\": \"Кюрасао\", \"Либерия\": \"Либерия\", \"Майотта\": \"Майотта\", \"Марокко\": \"Марокко\", \"Мексика\": \"Мексика\", \"Молдова\": \"Молдова\", \"Намибия\": \"Намибия\", \"Нигерия\": \"Нигерия\", \"Перейти\": \"Перейти\", \"Питкэрн\": \"Питкэрн\", \"Реюньон\": \"Реюньон\", \"Румыния\": \"Румыния\", \"Сенегал\": \"Сенегал\", \"Суринам\": \"Суринам\", \"Таиланд\": \"Таиланд\", \"Тайвань\": \"Тайвань\", \"Токелау\": \"Токелау\", \"Украина\": \"Украина\", \"Уругвай\": \"Уругвай\", \"Франция\": \"Франция\", \"Эквадор\": \"Эквадор\", \"Эритрея\": \"Эритрея\", \"Эстония\": \"Эстония\", \"Эфиопия\": \"Эфиопия\", \"6 месяцев\": \"6 месяцев\", \"Ангуилья\": \"Ангуилья\", \"Барбадос\": \"Барбадос\", \"Беларусь\": \"Беларусь\", \"Болгария\": \"Болгария\", \"Ботсвана\": \"Ботсвана\", \"Бразилия\": \"Бразилия\", \"Германия\": \"Германия\", \"Гондурас\": \"Гондурас\", \"Доминика\": \"Доминика\", \"Зимбабве\": \"Зимбабве\", \"Иордания\": \"Иордания\", \"Ирландия\": \"Ирландия\", \"Исландия\": \"Исландия\", \"Камбоджа\": \"Камбоджа\", \"Кирибати\": \"Кирибати\", \"Колумбия\": \"Колумбия\", \"Маврикий\": \"Маврикий\", \"Малайзия\": \"Малайзия\", \"Мальдивы\": \"Мальдивы\", \"Мозамбик\": \"Мозамбик\", \"Монголия\": \"Монголия\", \"Норвегия\": \"Норвегия\", \"Пакистан\": \"Пакистан\", \"Парагвай\": \"Парагвай\", \"Сингапур\": \"Сингапур\", \"Словакия\": \"Словакия\", \"Словения\": \"Словения\", \"Танзания\": \"Танзания\", \"Хорватия\": \"Хорватия\", \"Эсватини\": \"Эсватини\", \"Не сейчас\": \"Не сейчас\", \"Шри-Ланка\": \"Шри-Ланка\", \"Австралия\": \"Австралия\", \"Аргентина\": \"Аргентина\", \"Бангладеш\": \"Бангладеш\", \"Венесуэла\": \"Венесуэла\", \"Гваделупа\": \"Гваделупа\", \"Гватемала\": \"Гватемала\", \"Гибралтар\": \"Гибралтар\", \"Индонезия\": \"Индонезия\", \"Казахстан\": \"Казахстан\", \"Мартиника\": \"Мартиника\", \"Никарагуа\": \"Никарагуа\", \"Палестина\": \"Палестина\", \"Сальвадор\": \"Сальвадор\", \"Филиппины\": \"Филиппины\", \"Финляндия\": \"Финляндия\", \"Швейцария\": \"Швейцария\", \"Кабо-Верде\": \"Кабо-Верде\", \"Коста-Рика\": \"Коста-Рика\", \"Остров Мэн\": \"Остров Мэн\", \"Сан-Марино\": \"Сан-Марино\", \"Сент-Люсия\": \"Сент-Люсия\", \"Антарктида\": \"Антарктида\", \"Афганистан\": \"Афганистан\", \"Гренландия\": \"Гренландия\", \"Кот-д'Ивуар\": \"Кот-д'Ивуар\", \"Кыргызстан\": \"Кыргызстан\", \"Люксембург\": \"Люксембург\", \"Мавритания\": \"Мавритания\", \"Мадагаскар\": \"Мадагаскар\", \"Монтсеррат\": \"Монтсеррат\", \"Нидерланды\": \"Нидерланды\", \"Португалия\": \"Португалия\", \"Узбекистан\": \"Узбекистан\", \"Черногория\": \"Черногория\", \"Остров Буве\": \"Остров Буве\", \"Польша Бета\": \"Польша Бета\", \"Пуэрто-Рико\": \"Пуэрто-Рико\", \"Тимор-Лесте\": \"Тимор-Лесте\", \"Южная Корея\": \"Южная Корея\", \"Южный Судан\": \"Южный Судан\", \"Азербайджан\": \"Азербайджан\", \"Лихтенштейн\": \"Лихтенштейн\", \"Попробовать\": \"Попробовать\", \"Таджикистан\": \"Таджикистан\", \"Буркина-Фасо\": \"Буркина-Фасо\", \"Гвинея-Бисау\": \"Гвинея-Бисау\", \"Острова Кука\": \"Острова Кука\", \"Сьерра-Леоне\": \"Сьерра-Леоне\", \"Эстония Бета\": \"Эстония Бета\", \"Криптовалюта\": \"Криптовалюта\", \"Туркменистан\": \"Туркменистан\", \"payment_categories.info.1\": \"Visa/Mastercard\", \"payment_categories.info.2\": \"Карты российских банков\", \"payment_categories.info.3\": \"\", \"Германия Бета\": \"Германия Бета\", \"Сен-Бартелеми\": \"Сен-Бартелеми\", \"Теркс и Кайкос\": \"Теркс и Кайкос\", \"Новая Зеландия\": \"Новая Зеландия\", \"Остров Норфолк\": \"Остров Норфолк\", \"Финляндия Бета\": \"Финляндия Бета\", \"Великобритания\": \"Великобритания\", \"Уоллис и Футуна\": \"Уоллис и Футуна\", \"Западная Сахара\": \"Западная Сахара\", \"Новая Каледония\": \"Новая Каледония\", \"payment_providers.description.1\": \"\", \"payment_providers.description.2\": \"\", \"payment_providers.description.3\": \"\", \"Остров Рождества\": \"Остров Рождества\", \"Республика Конго\": \"Республика Конго\", \"Российская карта\": \"Российская карта\", \"Сент-Китс и Невис\": \"Сент-Китс и Невис\", \"Антигуа и Барбуда\": \"Антигуа и Барбуда\", \"Тринидад и Тобаго\": \"Тринидад и Тобаго\", \"Аландские острова\": \"Аландские острова\", \"Бруней-Даруссалам\": \"Бруней-Даруссалам\", \"Каймановы острова\": \"Каймановы острова\", \"Саудовская Аравия\": \"Саудовская Аравия\", \"Сен-Пьер и Микелон\": \"Сен-Пьер и Микелон\", \"Фарерские острова\": \"Фарерские острова\", \"Американское Самоа\": \"Американское Самоа\", \"Маршалловы Острова\": \"Маршалловы Острова\", \"Сан-Томе и Принсипи\": \"Сан-Томе и Принсипи\", \"Северная Македония\": \"Северная Македония\", \"Соломоновы Острова\": \"Соломоновы Острова\", \"Французская Гвиана\": \"Французская Гвиана\", \"Международная карта\": \"Международная карта\", \"Сейшельские Острова\": \"Сейшельские Острова\", \"payment_categories.short_description.1\": \"Оплата будет произведена через платёжного партнёра TipTop Pay. Юридическое лицо: ТОО «ViPiN», Страна: Республика Казахстан, Валюта платежа: KZT.\", \"payment_categories.short_description.2\": \"Нажимая \\\"Продолжить\\\", я даю согласие на регулярные списания, на обработку персональных данных и принимаю условия публичной оферты: https://pipstervpn.org/ru/policy/oferta \", \"payment_categories.short_description.3\": \"Подписки, приобретенные за криптовалюту, не продлеваются автоматически. Мы рекомендуем выбирать лицензии на более длительный срок, чтобы избежать необходимости часто продлевать их вручную.\", \"Босния и Герцеговина\": \"Босния и Герцеговина\", \"КНДР (Северная Корея)\": \"КНДР (Северная Корея)\", \"Папуа — Новая Гвинея\": \"Папуа — Новая Гвинея\", \"Сен-Мартен (фр. часть)\": \"Сен-Мартен (фр. часть)\", \"Шпицберген и Ян-Майен\": \"Шпицберген и Ян-Майен\", \"Французская Полинезия\": \"Французская Полинезия\", \"Экваториальная Гвинея\": \"Экваториальная Гвинея\", \"Сент-Винсент и Гренадины\": \"Сент-Винсент и Гренадины\", \"Внешние малые острова США\": \"Внешние малые острова США\", \"Доминиканская Республика\": \"Доминиканская Республика\", \"Кокосовые (Килинг) острова\": \"Кокосовые (Килинг) острова\", \"Синт-Мартен (нидерл. часть)\": \"Синт-Мартен (нидерл. часть)\", \"Бонэйр, Синт-Эстатиус и Саба\": \"Бонэйр, Синт-Эстатиус и Саба\", \"Для карт выпущенных в России\": \"\", \"Северные Марианские острова\": \"Северные Марианские острова\", \"Южно-Африканская Республика\": \"Южно-Африканская Республика\", \"Французские Южные территории\": \"Французские Южные территории\", \"Британские Виргинские острова\": \"Британские Виргинские острова\", \"Объединенные Арабские Эмираты\": \"Объединенные Арабские Эмираты\", \"Федеративные Штаты Микронезии\": \"Федеративные Штаты Микронезии\", \"Обработка: до 30 минут. Через Stripe\": \"Для карт выпущенных в России\", \"Американские Виргинские острова\": \"Американские Виргинские острова\", \"Остров Херд и острова Макдональд\": \"Остров Херд и острова Макдональд\", \"Демократическая Республика Конго\": \"Демократическая Республика Конго\", \"Центральноафриканская Республика\": \"Центральноафриканская Республика\", \"Южная Георгия и Южные Сандвичевы острова\": \"Южная Георгия и Южные Сандвичевы острова\", \"Британская территория в Индийском океане\": \"Британская территория в Индийском океане\", \"Фолклендские острова (Мальвинские острова)\": \"Фолклендские острова (Мальвинские острова)\", \"Острова Святой Елены, Вознесения и Тристан-да-Кунья\": \"Острова Святой Елены, Вознесения и Тристан-да-Кунья\"}"
+    }
+  },
+  {
+    "file": "locations.csv",
+    "size": 22214,
+    "cols": [
+      "227",
+      "Тонга",
+      "Tonga",
+      "https://static.pipstervpn.com/flags/to.webp",
+      "TO",
+      "f"
+    ],
+    "sample": {
+      "227": "175",
+      "Тонга": "Пакистан",
+      "Tonga": "Pakistan",
+      "https://static.pipstervpn.com/flags/to.webp": "https://static.pipstervpn.com/flags/pk.webp",
+      "TO": "PK",
+      "f": "f"
+    }
+  },
+  {
+    "file": "metric_values.csv",
+    "size": 118918,
+    "cols": [
+      "1",
+      "arppu",
+      "321.8074074074074",
+      "orders",
+      "ok",
+      "Unnamed: 5",
+      "2025-12-28 00:00:00",
+      "2025-12-29 00:00:00",
+      "2025-12-29 17:44:42.059589"
+    ],
+    "sample": {
+      "1": "2",
+      "arppu": "arpu",
+      "321.8074074074074": "14.290789473684212",
+      "orders": "users, orders",
+      "ok": "ok",
+      "Unnamed: 5": NaN,
+      "2025-12-28 00:00:00": "2025-12-28 00:00:00",
+      "2025-12-29 00:00:00": "2025-12-29 00:00:00",
+      "2025-12-29 17:44:42.059589": "2025-12-29 17:44:42.130945"
+    }
+  },
+  {
+    "file": "mobile_version.csv",
+    "size": 135933,
+    "cols": [
+      "58",
+      "2025.12.25",
+      "ios",
+      "2025-12-25 13:48:43.099526",
+      "{\"ads\": {\"showAppOpenAd\": false, \"showRewardedAd\": false, \"showAppOpenAdOpen\": false, \"showLowerBannerAd\": false, \"showUpperBannerAd\": false, \"showInterstitialAd\": false, \"showRewardedAdLimit\": false, \"showAppOpenAdConnect\": false, \"showRewardedAdTryFix\": false, \"showRewardedAdConnect\": false, \"showInterstitialAdTryFix\": false, \"showInterstitialAdConnect\": false}, \"link\": \"https://redirect.appmetrica.yandex.com/serve/461657817082853365\", \"featSub\": true, \"referral\": true, \"requiredUpdate\": false, \"showDemoButton\": true}",
+      "{\"ads\": {\"showAppOpenAd\": false, \"showRewardedAd\": false, \"showAppOpenAdOpen\": false, \"showLowerBannerAd\": false, \"showUpperBannerAd\": false, \"showInterstitialAd\": false, \"showRewardedAdLimit\": false, \"showAppOpenAdConnect\": false, \"showRewardedAdTryFix\": false, \"showRewardedAdConnect\": false, \"showInterstitialAdTryFix\": false, \"showInterstitialAdConnect\": false}, \"link\": \"https://redirect.appmetrica.yandex.com/serve/461657817082853365\", \"featSub\": false, \"referral\": true, \"requiredUpdate\": false, \"showDemoButton\": true}"
+    ],
+    "sample": {
+      "58": "5",
+      "2025.12.25": "2025.04.15",
+      "ios": "ios",
+      "2025-12-25 13:48:43.099526": "2025-04-15 08:44:29.716954",
+      "{\"ads\": {\"showAppOpenAd\": false, \"showRewardedAd\": false, \"showAppOpenAdOpen\": false, \"showLowerBannerAd\": false, \"showUpperBannerAd\": false, \"showInterstitialAd\": false, \"showRewardedAdLimit\": false, \"showAppOpenAdConnect\": false, \"showRewardedAdTryFix\": false, \"showRewardedAdConnect\": false, \"showInterstitialAdTryFix\": false, \"showInterstitialAdConnect\": false}, \"link\": \"https://redirect.appmetrica.yandex.com/serve/461657817082853365\", \"featSub\": true, \"referral\": true, \"requiredUpdate\": false, \"showDemoButton\": true}": "{\"ads\": {\"showAppOpenAd\": false, \"showRewardedAd\": true, \"showAppOpenAdOpen\": false, \"showLowerBannerAd\": false, \"showUpperBannerAd\": false, \"showInterstitialAd\": false, \"showRewardedAdLimit\": false, \"showAppOpenAdConnect\": false, \"showRewardedAdTryFix\": false, \"showRewardedAdConnect\": false, \"showInterstitialAdTryFix\": false, \"showInterstitialAdConnect\": false}, \"link\": \"https://redirect.appmetrica.yandex.com/serve/461657817082853365\", \"featSub\": true, \"referral\": true, \"requiredUpdate\": false, \"showDemoButton\": true}",
+      "{\"ads\": {\"showAppOpenAd\": false, \"showRewardedAd\": false, \"showAppOpenAdOpen\": false, \"showLowerBannerAd\": false, \"showUpperBannerAd\": false, \"showInterstitialAd\": false, \"showRewardedAdLimit\": false, \"showAppOpenAdConnect\": false, \"showRewardedAdTryFix\": false, \"showRewardedAdConnect\": false, \"showInterstitialAdTryFix\": false, \"showInterstitialAdConnect\": false}, \"link\": \"https://redirect.appmetrica.yandex.com/serve/461657817082853365\", \"featSub\": false, \"referral\": true, \"requiredUpdate\": false, \"showDemoButton\": true}": "{\"ads\": {\"showAppOpenAd\": false, \"showRewardedAd\": true, \"showAppOpenAdOpen\": false, \"showLowerBannerAd\": false, \"showUpperBannerAd\": false, \"showInterstitialAd\": false, \"showRewardedAdLimit\": false, \"showAppOpenAdConnect\": false, \"showRewardedAdTryFix\": false, \"showRewardedAdConnect\": false, \"showInterstitialAdTryFix\": false, \"showInterstitialAdConnect\": false}, \"link\": \"https://redirect.appmetrica.yandex.com/serve/461657817082853365\", \"featSub\": false, \"referral\": true, \"requiredUpdate\": false, \"showDemoButton\": true}"
+    }
+  },
+  {
+    "file": "nodes.csv",
+    "size": 10905,
+    "cols": [
+      "101a41c0-ee4b-4a44-83de-600d935d1871",
+      "d258fb49-68eb-496a-98bf-e8a00cabff17",
+      "251",
+      "f",
+      "t",
+      "2026-05-02 13:33:35.05092",
+      "103.27.157.218",
+      "Unnamed: 7"
+    ],
+    "sample": {
+      "101a41c0-ee4b-4a44-83de-600d935d1871": "1d161112-fab5-4290-bd3b-f8acd51e5751",
+      "d258fb49-68eb-496a-98bf-e8a00cabff17": "7565b07c-5102-449a-8d5d-44d4a0f7cf79",
+      "251": "5",
+      "f": "f",
+      "t": "t",
+      "2026-05-02 13:33:35.05092": "2026-09-10 21:04:20.026175",
+      "103.27.157.218": "141.98.6.17",
+      "Unnamed: 7": NaN
+    }
+  },
+  {
+    "file": "orders.csv",
+    "size": 16808896,
+    "cols": [
+      "a9de43db-100b-41c5-85ed-bb28f5382cfb",
+      "130729",
+      "5",
+      "249.00",
+      "paid",
+      "2026-03-19 13:46:00.100123",
+      "2026-03-19 13:46:02.543847",
+      "t",
+      "f",
+      "1",
+      "2"
+    ],
+    "sample": {
+      "a9de43db-100b-41c5-85ed-bb28f5382cfb": "965fc04c-6d99-4678-8fb0-fd36d764b362",
+      "130729": "310658",
+      "5": "5",
+      "249.00": "1.00",
+      "paid": "paid",
+      "2026-03-19 13:46:00.100123": "2026-03-19 13:46:32.011232",
+      "2026-03-19 13:46:02.543847": "2026-03-19 13:49:02.885696",
+      "t": "f",
+      "f": "t",
+      "1": "1",
+      "2": "3"
+    }
+  },
+  {
+    "file": "payment_categories.csv",
+    "size": 537,
+    "cols": [
+      "1",
+      "Международная карта",
+      "payment_categories.short_description.1",
+      "payment_categories.info.1",
+      "https://static.pipstervpn.com/vpn/int_cards.svg",
+      "t",
+      "2026-03-19 14:47:13.392772",
+      "1.1"
+    ],
+    "sample": {
+      "1": "2",
+      "Международная карта": "Российская карта",
+      "payment_categories.short_description.1": "payment_categories.short_description.2",
+      "payment_categories.info.1": "payment_categories.info.2",
+      "https://static.pipstervpn.com/vpn/int_cards.svg": "https://static.pipstervpn.com/vpn/ru_cards.svg",
+      "t": "t",
+      "2026-03-19 14:47:13.392772": "2026-03-19 11:09:24.107107",
+      "1.1": "0"
+    }
+  },
+  {
+    "file": "payment_providers.csv",
+    "size": 1507,
+    "cols": [
+      "2",
+      "Yookassa",
+      "RUB",
+      "payment_providers.description.2",
+      "2026-02-02 14:43:42.566261",
+      "yookassa",
+      "t",
+      "2.1",
+      "1",
+      "{\"shop_id\": \"1368241\", \"return_url\": \"https://app.pipster.win/profile/subscription?needUpdate=true\", \"secret_key\": \"$enc$/aVSHoPRd21p4kGnQNMSZHtWU2NtJjLmpBvMYqUVHdTQm7YNWQCYGlV0cDGKVP0r4KJebkaL5YOXIV5APr4xhKWfjxtsu9MMlxu3/A==\"}",
+      "2026-09-17 15:35:39.599556",
+      "https://pipstervpn.org/payment?redirectUrl={url}"
+    ],
+    "sample": {
+      "2": "1",
+      "Yookassa": "TipTopPay",
+      "RUB": "KZT",
+      "payment_providers.description.2": "payment_providers.description.1",
+      "2026-02-02 14:43:42.566261": "2026-02-02 14:43:42.566261",
+      "yookassa": "tiptoppay",
+      "t": "t",
+      "2.1": "1",
+      "1": "1",
+      "{\"shop_id\": \"1368241\", \"return_url\": \"https://app.pipster.win/profile/subscription?needUpdate=true\", \"secret_key\": \"$enc$/aVSHoPRd21p4kGnQNMSZHtWU2NtJjLmpBvMYqUVHdTQm7YNWQCYGlV0cDGKVP0r4KJebkaL5YOXIV5APr4xhKWfjxtsu9MMlxu3/A==\"}": "{\"public_id\": \"pk_0957cd3a8c86dc52f31ca92b7bb11\", \"api_secret\": \"$enc$lThKWANO8F79ELcDuJ5QvvjXc6k6Pa7QxzsYkeXecmdtONxx+rGse4TmFQ9/Nrh/nVgRMqaGDxEh5j8C\"}",
+      "2026-09-17 15:35:39.599556": "2026-09-17 15:35:39.599556",
+      "https://pipstervpn.org/payment?redirectUrl={url}": NaN
+    }
+  },
+  {
+    "file": "product.csv",
+    "size": 780,
+    "cols": [
+      "4",
+      "Diamond",
+      "{00D1EE,5749FF}",
+      "4.1",
+      "https://static.pipstervpn.com/vpn/diamond.svg",
+      "https://app.pipster.win/profile/subscription",
+      "2025-04-15 09:10:48.734935",
+      "21.99",
+      "USD"
+    ],
+    "sample": {
+      "4": "1",
+      "Diamond": "Basic",
+      "{00D1EE,5749FF}": "{7CC6FF,816DFF}",
+      "4.1": "1",
+      "https://static.pipstervpn.com/vpn/diamond.svg": "https://static.pipstervpn.com/vpn/free.svg",
+      "https://app.pipster.win/profile/subscription": "https://app.pipster.win/profile/subscription",
+      "2025-04-15 09:10:48.734935": "2025-04-15 09:10:48.734935",
+      "21.99": "0.00",
+      "USD": "USD"
+    }
+  },
+  {
+    "file": "product_period_discounts.csv",
+    "size": 138,
+    "cols": [
+      "6",
+      "3",
+      "4",
+      "60.00"
+    ],
+    "sample": {
+      "6": "9",
+      "3": "4",
+      "4": "4",
+      "60.00": "60.00"
+    }
+  },
+  {
+    "file": "product_periods.csv",
+    "size": 75,
+    "cols": [
+      "1",
+      "1 месяц",
+      "1.1"
+    ],
+    "sample": {
+      "1": "2",
+      "1 месяц": "6 месяцев",
+      "1.1": "6"
+    }
+  },
+  {
+    "file": "product_trial.csv",
+    "size": 26,
+    "error": "list index out of range"
+  },
+  {
+    "file": "proxy_user_connection_logs.csv",
+    "size": 26058760,
+    "cols": [
+      "a8d0b88e-27eb-4811-a5e9-4c767ea0980a",
+      "240322",
+      "38",
+      "Unnamed: 3",
+      "2026-03-02 14:40:57.626384"
+    ],
+    "sample": {
+      "a8d0b88e-27eb-4811-a5e9-4c767ea0980a": "a488896a-8695-4b92-84f0-d822e6cb13e6",
+      "240322": "240513",
+      "38": "41",
+      "Unnamed: 3": "16152",
+      "2026-03-02 14:40:57.626384": "2026-03-02 14:42:45.537558"
+    }
+  },
+  {
+    "file": "referral_code_used.csv",
+    "size": 26624,
+    "cols": [
+      "1",
+      "61107",
+      "54691",
+      "2025-10-06 16:18:39.830721"
+    ],
+    "sample": {
+      "1": "2",
+      "61107": "71935",
+      "54691": "372",
+      "2025-10-06 16:18:39.830721": "2025-10-24 20:18:23.125713"
+    }
+  },
+  {
+    "file": "referral_config.csv",
+    "size": 12,
+    "error": "list index out of range"
+  },
+  {
+    "file": "referral_history.csv",
+    "size": 38251,
+    "cols": [
+      "1",
+      "78189",
+      "230738",
+      "311c88c3-000f-5000-b000-1bbe3a9b3a12",
+      "3.00",
+      "10.00",
+      "2026-02-10 03:00:53.766161"
+    ],
+    "sample": {
+      "1": "2",
+      "78189": "112958",
+      "230738": "230298",
+      "311c88c3-000f-5000-b000-1bbe3a9b3a12": "311d3c33-000f-5000-b000-1922ca699fad",
+      "3.00": "3.00",
+      "10.00": "10.00",
+      "2026-02-10 03:00:53.766161": "2026-02-10 15:46:12.392059"
+    }
+  },
+  {
+    "file": "save_location.csv",
+    "size": 3979195,
+    "cols": [
+      "8170",
+      "39442",
+      "Unnamed: 2",
+      "Unnamed: 3"
+    ],
+    "sample": {
+      "8170": "11608",
+      "39442": "59031",
+      "Unnamed: 2": NaN,
+      "Unnamed: 3": NaN
+    }
+  },
+  {
+    "file": "saved_payment_methods.csv",
+    "size": 5647140,
+    "cols": [
+      "12aa3cbc-fc70-4df2-a1fd-9b3f4ca1f95e",
+      "429028",
+      "323df231-000f-5001-a000-1f804058cfe2",
+      "Unnamed: 3",
+      "2026-08-18 12:32:15.786374",
+      "2026-09-17 12:36:45.35487",
+      "{\"last4\": \"7606\", \"first6\": \"220432\", \"card_type\": \"Mir\", \"expiry_year\": \"2035\", \"issuer_name\": \"OZON Bank Limited Liability Company\", \"expiry_month\": \"11\", \"issuer_country\": \"RU\"}",
+      "2"
+    ],
+    "sample": {
+      "12aa3cbc-fc70-4df2-a1fd-9b3f4ca1f95e": "a54b6c3b-79ea-493a-b469-8b144d0e05e0",
+      "429028": "295995",
+      "323df231-000f-5001-a000-1f804058cfe2": "3217b94f-000f-5001-8000-1ad2694fcd68",
+      "Unnamed: 3": NaN,
+      "2026-08-18 12:32:15.786374": "2026-03-16 14:20:08.037478",
+      "2026-09-17 12:36:45.35487": "2026-09-17 12:49:02.573694",
+      "{\"last4\": \"7606\", \"first6\": \"220432\", \"card_type\": \"Mir\", \"expiry_year\": \"2035\", \"issuer_name\": \"OZON Bank Limited Liability Company\", \"expiry_month\": \"11\", \"issuer_country\": \"RU\"}": "{}",
+      "2": "2"
+    }
+  },
+  {
+    "file": "server_categories.csv",
+    "size": 3,
+    "error": "No columns to parse from file"
+  },
+  {
+    "file": "sessions.csv",
+    "size": 28677904,
+    "error": "[Errno 13] Permission denied: 'data\\\\sessions.csv'"
+  },
+  {
+    "file": "subscribe.csv",
+    "size": 9698720,
+    "cols": [
+      "62958",
+      "1645635",
+      "5",
+      "2026-10-13 17:19:29.39354+03",
+      "2026-09-13 14:19:29.39354",
+      "fe5846c4-3751-4b8a-a6f5-5ea7c3971190",
+      "Unnamed: 6",
+      "Unnamed: 7",
+      "f",
+      "f.1",
+      "Unnamed: 10"
+    ],
+    "sample": {
+      "62958": "1849",
+      "1645635": "39131",
+      "5": "5",
+      "2026-10-13 17:19:29.39354+03": "2025-08-30 15:58:38.607089+03",
+      "2026-09-13 14:19:29.39354": "2025-08-27 12:58:38.606321",
+      "fe5846c4-3751-4b8a-a6f5-5ea7c3971190": "18590474-9e66-4f59-860a-9c1cc840f6db",
+      "Unnamed: 6": "2025-08-30 12:59:00.016347",
+      "Unnamed: 7": NaN,
+      "f": "f",
+      "f.1": "f",
+      "Unnamed: 10": NaN
+    }
+  },
+  {
+    "file": "task_history.csv",
+    "size": 50442,
+    "cols": [
+      "43",
+      "Обновление версии ноды: 147.45.51.106",
+      "Нода успешно обновлена",
+      "Unnamed: 3",
+      "2025-11-06 12:46:14.744553"
+    ],
+    "sample": {
+      "43": "30",
+      "Обновление версии ноды: 147.45.51.106": "Обновление версии ноды: 62.60.234.61",
+      "Нода успешно обновлена": "Нода успешно обновлена",
+      "Unnamed: 3": NaN,
+      "2025-11-06 12:46:14.744553": "2025-11-06 12:39:22.116371"
+    }
+  },
+  {
+    "file": "transactions.csv",
+    "size": 80281705,
+    "cols": [
+      "2f93068b-000f-5000-8000-152c8cfa3ff9",
+      "78a2094c-74c9-4da9-ab9c-3f0fb2074068",
+      "349.00",
+      "https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f93068b-000f-5000-8000-152c8cfa3ff9",
+      "failed",
+      "{\"id\": \"2f93068b-000f-5000-8000-152c8cfa3ff9\", \"amount\": {\"value\": \"349.00\", \"currency\": \"RUB\"}, \"status\": \"pending\", \"metadata\": {}, \"recipient\": {\"account_id\": \"1046262\", \"gateway_id\": \"2407899\"}, \"created_at\": \"2025-04-17T12:23:39.466Z\", \"confirmation\": {\"type\": \"redirect\", \"confirmation_url\": \"https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f93068b-000f-5000-8000-152c8cfa3ff9\"}}",
+      "2025-04-17 12:23:39.515195",
+      "2025-04-17 13:25:40.047519"
+    ],
+    "sample": {
+      "2f93068b-000f-5000-8000-152c8cfa3ff9": "2f9318df-000f-5000-a000-1e68daaa9dae",
+      "78a2094c-74c9-4da9-ab9c-3f0fb2074068": "46442472-70f5-46da-b68e-4b7ae09d37e9",
+      "349.00": "499.00",
+      "https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f93068b-000f-5000-8000-152c8cfa3ff9": "https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f9318df-000f-5000-a000-1e68daaa9dae",
+      "failed": "failed",
+      "{\"id\": \"2f93068b-000f-5000-8000-152c8cfa3ff9\", \"amount\": {\"value\": \"349.00\", \"currency\": \"RUB\"}, \"status\": \"pending\", \"metadata\": {}, \"recipient\": {\"account_id\": \"1046262\", \"gateway_id\": \"2407899\"}, \"created_at\": \"2025-04-17T12:23:39.466Z\", \"confirmation\": {\"type\": \"redirect\", \"confirmation_url\": \"https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f93068b-000f-5000-8000-152c8cfa3ff9\"}}": "{\"id\": \"2f9318df-000f-5000-a000-1e68daaa9dae\", \"amount\": {\"value\": \"499.00\", \"currency\": \"RUB\"}, \"status\": \"pending\", \"metadata\": {}, \"recipient\": {\"account_id\": \"1046262\", \"gateway_id\": \"2407899\"}, \"created_at\": \"2025-04-17T13:41:51.903Z\", \"confirmation\": {\"type\": \"redirect\", \"confirmation_url\": \"https://yoomoney.ru/checkout/payments/v2/contract?orderId=2f9318df-000f-5000-a000-1e68daaa9dae\"}}",
+      "2025-04-17 12:23:39.515195": "2025-04-17 13:41:52.001307",
+      "2025-04-17 13:25:40.047519": "2025-04-17 14:43:52.293843"
+    }
+  },
+  {
+    "file": "user_blocks.csv",
+    "size": 28847,
+    "cols": [
+      "9",
+      "12",
+      "2024-11-21 13:17:20.938003",
+      "2024-11-21 13:47:20.937813",
+      "Превышен лимит запросов",
+      "BAN_TEMP"
+    ],
+    "sample": {
+      "9": "43",
+      "12": "15",
+      "2024-11-21 13:17:20.938003": "2024-11-21 15:01:57.417419",
+      "2024-11-21 13:47:20.937813": "2024-11-21 15:31:57.417295",
+      "Превышен лимит запросов": "Превышен лимит запросов",
+      "BAN_TEMP": "BAN_TEMP"
+    }
+  },
+  {
+    "file": "users.csv",
+    "size": 314330504,
+    "cols": [
+      "27",
+      "Unnamed: 1",
+      "***@synaptik.ru",
+      "$2a$10$anE7gERTGlYY/DTMdNlwU.FVYY2X3f99fw1AKFj0w/..yKr5DgiHm",
+      "t",
+      "2024-11-25 10:06:42.459059",
+      "2024-11-25 10:06:42.459059.1",
+      "Unnamed: 7",
+      "1970-01-01 00:00:00",
+      "Unnamed: 9",
+      "Unnamed: 10",
+      "Unnamed: 11",
+      "Unnamed: 12",
+      "0",
+      "client",
+      "1",
+      "Unnamed: 16",
+      "Unnamed: 17",
+      "Unnamed: 18",
+      "f",
+      "f.1",
+      "Unnamed: 21",
+      "Unnamed: 22"
+    ],
+    "sample": {
+      "27": "28",
+      "Unnamed: 1": NaN,
+      "***@synaptik.ru": "***@gmail.com",
+      "$2a$10$anE7gERTGlYY/DTMdNlwU.FVYY2X3f99fw1AKFj0w/..yKr5DgiHm": "$2a$10$9DtBZexo5KCvcYhP11VjC.EtCy2Zg4KD8mte.iuYaJS2fe1Mh69hu",
+      "t": "f",
+      "2024-11-25 10:06:42.459059": "2024-11-25 10:42:57.618037",
+      "2024-11-25 10:06:42.459059.1": "2024-11-25 10:42:57.618037",
+      "Unnamed: 7": NaN,
+      "1970-01-01 00:00:00": "1970-01-01 00:00:00",
+      "Unnamed: 9": NaN,
+      "Unnamed: 10": NaN,
+      "Unnamed: 11": NaN,
+      "Unnamed: 12": NaN,
+      "0": "0",
+      "client": "client",
+      "1": "1",
+      "Unnamed: 16": NaN,
+      "Unnamed: 17": NaN,
+      "Unnamed: 18": NaN,
+      "f": "f",
+      "f.1": "f",
+      "Unnamed: 21": NaN,
+      "Unnamed: 22": NaN
+    }
+  }
+]

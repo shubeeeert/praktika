@@ -1,0 +1,40 @@
+{
+  "adv_rows": 7552651,
+  "adv_users": 414504,
+  "adv_per_user_day": {
+    "mean": 3.9653801372408157,
+    "median": 2.0,
+    "p90": 9.0,
+    "p95": 13.0,
+    "max": 1886
+  },
+  "adv_per_user_month": {
+    "mean": 13.069470569403947,
+    "median": 3.0,
+    "p90": 30.0,
+    "p95": 56.0,
+    "max": 2181
+  },
+  "adv_total_users_share_of_all": 0.22467802783920907,
+  "sess_rows": 3053671,
+  "sess_users": 1841654,
+  "sessions_per_user": {
+    "mean": 1.6581133046706928,
+    "median": 1.0,
+    "p90": 2.0,
+    "p95": 4.0,
+    "max": 2276
+  },
+  "sessions_revoked": 30,
+  "sessions_cols": [
+    "id",
+    "user_id",
+    "device_id",
+    "created_at",
+    "last_accessed_at",
+    "revoked_at",
+    "ip_address",
+    "user_agent",
+    "expired_at"
+  ]
+}

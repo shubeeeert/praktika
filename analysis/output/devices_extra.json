@@ -1,0 +1,83 @@
+{
+  "rows": 2381480,
+  "cols": [
+    "id",
+    "user_id",
+    "device_identifier",
+    "device_name",
+    "client_type",
+    "os",
+    "last_seen",
+    "in_sub",
+    "brand",
+    "fcm_push_token",
+    "hms_push_token",
+    "push_tokens_updated_at"
+  ],
+  "client_type": {
+    "NaN": 1375294,
+    "mobile": 970455,
+    "web-extension": 21834,
+    "desktop": 5052,
+    "tv": 4850,
+    "web": 3993,
+    "string": 2
+  },
+  "os": {
+    "NaN": 1375295,
+    "android": 885797,
+    "ios": 42028,
+    "windows": 26651,
+    "androidTv": 22432,
+    "Windows": 19478,
+    "macOs": 3449,
+    "unknown": 2273,
+    "Linux": 1625,
+    "windows-10": 1383,
+    "Mac OS": 440,
+    "iOS": 251,
+    "Android": 160,
+    "Chromium OS": 73,
+    "mac-os-x-15": 61,
+    "Ubuntu": 57,
+    "android-9": 11,
+    "windows-7": 6,
+    "windows-8-1": 6,
+    "string": 2
+  },
+  "brand": {
+    "NaN": 1379289,
+    "Redmi": 188192,
+    "samsung": 158795,
+    "TECNO": 115651,
+    "realme": 77768,
+    "HONOR": 70807,
+    "POCO": 65108,
+    "HUAWEI": 58597,
+    "Infinix": 53118,
+    "Apple": 45478,
+    "Xiaomi": 31320,
+    "Windows": 26654,
+    "vivo": 12298,
+    "OPPO": 10826,
+    "Chrome": 10121,
+    "xiaomi": 4755,
+    "Firefox": 4681,
+    "OnePlus": 3850,
+    "TCL": 3395,
+    "SaluteTV": 3368
+  },
+  "in_sub": {
+    "t": 1346583,
+    "f": 1034897
+  },
+  "devices_per_user": {
+    "mean": 1.1486357056681713,
+    "median": 1.0,
+    "p90": 2.0,
+    "p95": 2.0,
+    "max": 143
+  },
+  "users_multi_devices": 203308,
+  "users_total_with_device": 1841758
+}
